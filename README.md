@@ -1,4 +1,4 @@
-# Práctica Final de DevOps
+# Práctica Final
 
 Este proyecto de DevOps tiene como objetivo demostrar cómo integrar herramientas y técnicas modernas para automatizar el proceso de desarrollo, pruebas y despliegue de software. El proyecto consiste en crear una página web simple que muestre un mensaje de "Hola Mundo", automatizar las pruebas unitarias para asegurar que el contenido de la página sea correcto, y utilizar Docker para contenerizar la aplicación, garantizando que funcione de la misma manera en cualquier entorno. Además, se utiliza GitHub Actions para ejecutar las pruebas automáticamente cada vez que se actualiza el repositorio, y se publica la página en GitHub Pages, asegurando que esté disponible para cualquier usuario.
 
